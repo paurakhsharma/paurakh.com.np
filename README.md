@@ -1,6 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/187c9c3e-c322-45a6-8cdd-098189efa1d4/deploy-status)](https://app.netlify.com/sites/paurakh/deploys)
+
 # paurakh.com.np
 
-A new Flutter project.
+## [WIP]
+Portfolio site on Flutter web
 
 ## Getting Started
 
